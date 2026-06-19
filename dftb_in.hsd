@@ -1,5 +1,5 @@
 Geometry = GenFormat {
-<<<" case-0.indep-0.gen"
+<<<"6000K_2.5gcc.gen"
 }
 
 Driver = VelocityVerlet {
@@ -33,7 +33,7 @@ Hamiltonian = DFTB {
     MixingParameter = 0.05
   }
   SlaterKosterFiles = Type2FileNames {
-    Prefix    = "/usr/workspace/wsb/lindsey11/dftb_tests/mio-1-1/"
+    Prefix    = "./"
     Separator = "-"
     Suffix    = ".skf"
   }
