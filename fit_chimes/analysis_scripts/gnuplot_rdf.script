@@ -1,0 +1,13 @@
+
+set terminal pngcairo size 5in,5in enhanced font 'Arial,10'
+set output 'rdf_plot.png'
+
+# Energy parity plots
+
+set format y "%.1f"
+set xlabel "r (pm)
+set ylabel "g(r)"
+
+p 'DFT_RDF.csv'           w l lc -1 lw 2 t 'DFT', \
+  'DFTB_RDF.csv'          w l lc  4 lw 2 t 'DFTB', \
+  'rdf_N_N_[N1r_N1o].csv' w l lc 11 lw 2 dt 2 t 'DFTB+ChIMES'

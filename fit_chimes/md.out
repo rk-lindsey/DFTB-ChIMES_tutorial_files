@@ -1,0 +1,1138 @@
+MD step: 0
+Nose-Hoover chain variables
+x:
+    0.1000000000E+01    0.1000000000E+01    0.1000000000E+01
+v:
+    0.0000000000E+00    0.0000000000E+00    0.0000000000E+00
+g:
+    0.0000000000E+00    0.0000000000E+00    0.0000000000E+00
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.191742E-02 au     0.564124E+11 Pa
+Gibbs free energy:                 -27.9831240718 H         -761.4595 eV
+Gibbs free energy including KE:    -24.9334808943 H         -678.4745 eV
+Potential Energy:                  -27.9831240718 H         -761.4595 eV
+MD Kinetic Energy:                   3.0496431775 H           82.9850 eV
+Total MD Energy:                   -24.9334808943 H         -678.4745 eV
+MD Temperature:                      0.0190008921 au        6000.0000 K
+MD step: 5
+Nose-Hoover chain variables
+x:
+    0.1000002810E+01    0.9992619481E+00    0.9992623252E+00
+v:
+    0.2640518629E-06   -0.3386121416E-04   -0.3382727957E-04
+g:
+    0.1501950308E-07   -0.7572186907E-06   -0.7560944901E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.170801E-02 au     0.502514E+11 Pa
+Gibbs free energy:                 -28.0540591721 H         -763.3898 eV
+Gibbs free energy including KE:    -24.9345043785 H         -678.5024 eV
+Potential Energy:                  -28.0540591721 H         -763.3898 eV
+MD Kinetic Energy:                   3.1195547936 H           84.8874 eV
+Total MD Energy:                   -24.9345043785 H         -678.5024 eV
+MD Temperature:                      0.0194364785 au        6137.5471 K
+MD step: 10
+Nose-Hoover chain variables
+x:
+    0.1000051781E+01    0.9964982257E+00    0.9965061986E+00
+v:
+    0.1659431352E-05   -0.7312912656E-04   -0.7280456538E-04
+g:
+    0.2503649258E-07   -0.7563571302E-06   -0.7518932028E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.151976E-02 au     0.447130E+11 Pa
+Gibbs free energy:                 -28.0672208086 H         -763.7479 eV
+Gibbs free energy including KE:    -24.9350489400 H         -678.5172 eV
+Potential Energy:                  -28.0672208086 H         -763.7479 eV
+MD Kinetic Energy:                   3.1321718686 H           85.2307 eV
+Total MD Energy:                   -24.9350489400 H         -678.5172 eV
+MD Temperature:                      0.0195150895 au        6162.3705 K
+MD step: 15
+Nose-Hoover chain variables
+x:
+    0.1000146349E+01    0.9916995201E+00    0.9917428520E+00
+v:
+    0.1599185477E-05   -0.1126540586E-03   -0.1114839636E-03
+g:
+   -0.1995031179E-07   -0.7564201484E-06   -0.7445501350E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.159772E-02 au     0.470066E+11 Pa
+Gibbs free energy:                 -27.8898519668 H         -758.9215 eV
+Gibbs free energy including KE:    -24.9337005425 H         -678.4805 eV
+Potential Energy:                  -27.8898519668 H         -758.9215 eV
+MD Kinetic Energy:                   2.9561514243 H           80.4410 eV
+Total MD Energy:                   -24.9337005425 H         -678.4805 eV
+MD Temperature:                      0.0184183889 au        5816.0603 K
+MD step: 20
+Nose-Hoover chain variables
+x:
+    0.1000209525E+01    0.9848465379E+00    0.9849919252E+00
+v:
+    0.1311691325E-05   -0.1526624420E-03   -0.1497000113E-03
+g:
+    0.2146267065E-07   -0.7566887805E-06   -0.7339352507E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.173340E-02 au     0.509985E+11 Pa
+Gibbs free energy:                 -28.1038298471 H         -764.7441 eV
+Gibbs free energy including KE:    -24.9357912153 H         -678.5374 eV
+Potential Energy:                  -28.1038298471 H         -764.7441 eV
+MD Kinetic Energy:                   3.1680386318 H           86.2067 eV
+Total MD Energy:                   -24.9357912153 H         -678.5374 eV
+MD Temperature:                      0.0197385585 au        6232.9363 K
+MD step: 25
+Nose-Hoover chain variables
+x:
+    0.1000349082E+01    0.9759124911E+00    0.9762817939E+00
+v:
+    0.4255714204E-05   -0.1931722551E-03   -0.1872801267E-03
+g:
+    0.5490173622E-07   -0.7514274077E-06   -0.7199255518E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.185354E-02 au     0.545329E+11 Pa
+Gibbs free energy:                 -28.1682544144 H         -766.4972 eV
+Gibbs free energy including KE:    -24.9378563020 H         -678.5936 eV
+Potential Energy:                  -28.1682544144 H         -766.4972 eV
+MD Kinetic Energy:                   3.2303981123 H           87.9036 eV
+Total MD Energy:                   -24.9378563020 H         -678.5936 eV
+MD Temperature:                      0.0201270910 au        6355.6251 K
+MD step: 30
+Nose-Hoover chain variables
+x:
+    0.1000595614E+01    0.9648730980E+00    0.9656498927E+00
+v:
+    0.4860223191E-05   -0.2342036671E-03   -0.2240463315E-03
+g:
+   -0.3118615437E-08   -0.7496584839E-06   -0.7023897142E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.187896E-02 au     0.552809E+11 Pa
+Gibbs free energy:                 -27.9803621447 H         -761.3844 eV
+Gibbs free energy including KE:    -24.9370550441 H         -678.5718 eV
+Potential Energy:                  -27.9803621447 H         -761.3844 eV
+MD Kinetic Energy:                   3.0433071007 H           82.8126 eV
+Total MD Energy:                   -24.9370550441 H         -678.5718 eV
+MD Temperature:                      0.0189614150 au        5987.5341 K
+MD step: 35
+Nose-Hoover chain variables
+x:
+    0.1000871340E+01    0.9516920171E+00    0.9531431270E+00
+v:
+    0.6199078217E-05   -0.2760568884E-03   -0.2598084452E-03
+g:
+    0.3985671442E-07   -0.7449055007E-06   -0.6810336663E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.165534E-02 au     0.487018E+11 Pa
+Gibbs free energy:                 -28.1429398070 H         -765.8084 eV
+Gibbs free energy including KE:    -24.9409977570 H         -678.6791 eV
+Potential Energy:                  -28.1429398070 H         -765.8084 eV
+MD Kinetic Energy:                   3.2019420500 H           87.1293 eV
+Total MD Energy:                   -24.9409977570 H         -678.6791 eV
+MD Temperature:                      0.0199497947 au        6299.6394 K
+MD step: 40
+Nose-Hoover chain variables
+x:
+    0.1001232346E+01    0.9363296916E+00    0.9388185485E+00
+v:
+    0.7394512490E-05   -0.3186415962E-03   -0.2943654981E-03
+g:
+    0.1167866165E-08   -0.7396891723E-06   -0.6557086051E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.158518E-02 au     0.466375E+11 Pa
+Gibbs free energy:                 -27.9683716328 H         -761.0581 eV
+Gibbs free energy including KE:    -24.9418361784 H         -678.7019 eV
+Potential Energy:                  -27.9683716328 H         -761.0581 eV
+MD Kinetic Energy:                   3.0265354544 H           82.3562 eV
+Total MD Energy:                   -24.9418361784 H         -678.7019 eV
+MD Temperature:                      0.0188569187 au        5954.5369 K
+MD step: 45
+Nose-Hoover chain variables
+x:
+    0.1001587010E+01    0.9187379334E+00    0.9227439153E+00
+v:
+    0.5957854523E-05   -0.3624672077E-03   -0.3275003866E-03
+g:
+   -0.4544573167E-07   -0.7458468461E-06   -0.6258585953E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.164496E-02 au     0.483964E+11 Pa
+Gibbs free energy:                 -27.8056016531 H         -756.6289 eV
+Gibbs free energy including KE:    -24.9421256468 H         -678.7098 eV
+Potential Energy:                  -27.8056016531 H         -756.6289 eV
+MD Kinetic Energy:                   2.8634760063 H           77.9191 eV
+Total MD Energy:                   -24.9421256468 H         -678.7098 eV
+MD Temperature:                      0.0178409720 au        5633.7266 K
+MD step: 50
+Nose-Hoover chain variables
+x:
+    0.1001859036E+01    0.8988377071E+00    0.9049991079E+00
+v:
+    0.5196364937E-05   -0.4079775301E-03   -0.3589598023E-03
+g:
+    0.1573617644E-07   -0.7485733630E-06   -0.5907954069E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.166492E-02 au     0.489837E+11 Pa
+Gibbs free energy:                 -28.0821581804 H         -764.1544 eV
+Gibbs free energy including KE:    -24.9470366137 H         -678.8434 eV
+Potential Energy:                  -28.0821581804 H         -764.1544 eV
+MD Kinetic Energy:                   3.1351215667 H           85.3110 eV
+Total MD Energy:                   -24.9470366137 H         -678.8434 eV
+MD Temperature:                      0.0195334677 au        6168.1739 K
+MD step: 55
+Nose-Hoover chain variables
+x:
+    0.1002170707E+01    0.8765492332E+00    0.8856777803E+00
+v:
+    0.6698795373E-05   -0.4548416291E-03   -0.3884689276E-03
+g:
+    0.1252739634E-07   -0.7428365630E-06   -0.5503601644E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.181077E-02 au     0.532746E+11 Pa
+Gibbs free energy:                 -28.0170651963 H         -762.3831 eV
+Gibbs free energy including KE:    -24.9474366763 H         -678.8543 eV
+Potential Energy:                  -28.0170651963 H         -762.3831 eV
+MD Kinetic Energy:                   3.0696285200 H           83.5288 eV
+Total MD Energy:                   -24.9474366763 H         -678.8543 eV
+MD Temperature:                      0.0191254113 au        6039.3200 K
+MD step: 60
+Nose-Hoover chain variables
+x:
+    0.1002507363E+01    0.8518020974E+00    0.8648880394E+00
+v:
+    0.6076278426E-05   -0.5032301896E-03   -0.4157395805E-03
+g:
+   -0.2386968902E-07   -0.7453893797E-06   -0.5040004482E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.186316E-02 au     0.548162E+11 Pa
+Gibbs free energy:                 -27.9045889102 H         -759.3225 eV
+Gibbs free energy including KE:    -24.9482302523 H         -678.8759 eV
+Potential Energy:                  -27.9045889102 H         -759.3225 eV
+MD Kinetic Energy:                   2.9563586578 H           80.4466 eV
+Total MD Energy:                   -24.9482302523 H         -678.8759 eV
+MD Temperature:                      0.0184196801 au        5816.4680 K
+MD step: 65
+Nose-Hoover chain variables
+x:
+    0.1002820496E+01    0.8245064939E+00    0.8427538793E+00
+v:
+    0.6579003158E-05   -0.5534488201E-03   -0.4404429304E-03
+g:
+    0.3133537966E-07   -0.7433471382E-06   -0.4509354755E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.167790E-02 au     0.493656E+11 Pa
+Gibbs free energy:                 -28.1349548371 H         -765.5911 eV
+Gibbs free energy including KE:    -24.9528109169 H         -679.0005 eV
+Potential Energy:                  -28.1349548371 H         -765.5911 eV
+MD Kinetic Energy:                   3.1821439202 H           86.5905 eV
+Total MD Energy:                   -24.9528109169 H         -679.0005 eV
+MD Temperature:                      0.0198264419 au        6260.6877 K
+MD step: 70
+Nose-Hoover chain variables
+x:
+    0.1003212415E+01    0.7945763429E+00    0.8194170134E+00
+v:
+    0.8439267491E-05   -0.6051425049E-03   -0.4622281939E-03
+g:
+    0.2128820748E-07   -0.7343790552E-06   -0.3910436206E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.150592E-02 au     0.443056E+11 Pa
+Gibbs free energy:                 -28.0672037355 H         -763.7475 eV
+Gibbs free energy including KE:    -24.9540038091 H         -679.0330 eV
+Potential Energy:                  -28.0672037355 H         -763.7475 eV
+MD Kinetic Energy:                   3.1131999264 H           84.7145 eV
+Total MD Energy:                   -24.9540038091 H         -679.0330 eV
+MD Temperature:                      0.0193968843 au        6125.0443 K
+MD step: 75
+Nose-Hoover chain variables
+x:
+    0.1003660561E+01    0.7619356655E+00    0.7950375212E+00
+v:
+    0.8685544443E-05   -0.6584297276E-03   -0.4807307991E-03
+g:
+   -0.8250472094E-08   -0.7330252549E-06   -0.3237113657E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.145620E-02 au     0.428429E+11 Pa
+Gibbs free energy:                 -27.9764992332 H         -761.2793 eV
+Gibbs free energy including KE:    -24.9550566787 H         -679.0616 eV
+Potential Energy:                  -27.9764992332 H         -761.2793 eV
+MD Kinetic Energy:                   3.0214425545 H           82.2176 eV
+Total MD Energy:                   -24.9550566787 H         -679.0616 eV
+MD Temperature:                      0.0188251873 au        5944.5169 K
+MD step: 80
+Nose-Hoover chain variables
+x:
+    0.1004131088E+01    0.7264938205E+00    0.7697954160E+00
+v:
+    0.9968661696E-05   -0.7134992230E-03   -0.4955421078E-03
+g:
+    0.3814469131E-07   -0.7253419486E-06   -0.2481599307E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.148824E-02 au     0.437856E+11 Pa
+Gibbs free energy:                 -28.1673885182 H         -766.4736 eV
+Gibbs free energy including KE:    -24.9603451576 H         -679.2055 eV
+Potential Energy:                  -28.1673885182 H         -766.4736 eV
+MD Kinetic Energy:                   3.2070433606 H           87.2681 eV
+Total MD Energy:                   -24.9603451576 H         -679.2055 eV
+MD Temperature:                      0.0199815786 au        6309.6759 K
+MD step: 85
+Nose-Hoover chain variables
+x:
+    0.1004712346E+01    0.6881734687E+00    0.7438923419E+00
+v:
+    0.1249466030E-04   -0.7697341169E-03   -0.5062441470E-03
+g:
+    0.3739032259E-07   -0.7071276638E-06   -0.1647504612E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.171805E-02 au     0.505467E+11 Pa
+Gibbs free energy:                 -28.1568355405 H         -766.1865 eV
+Gibbs free energy including KE:    -24.9630437187 H         -679.2790 eV
+Potential Energy:                  -28.1568355405 H         -766.1865 eV
+MD Kinetic Energy:                   3.1937918218 H           86.9075 eV
+Total MD Energy:                   -24.9630437187 H         -679.2790 eV
+MD Temperature:                      0.0198990145 au        6283.6043 K
+MD step: 90
+Nose-Hoover chain variables
+x:
+    0.1005419720E+01    0.6469252458E+00    0.7175510106E+00
+v:
+    0.1479926539E-04   -0.8267772087E-03   -0.5124376402E-03
+g:
+    0.2666744331E-07   -0.6869362117E-06   -0.7368051902E-07
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.195344E-02 au     0.574723E+11 Pa
+Gibbs free energy:                 -28.1090298741 H         -764.8856 eV
+Gibbs free energy including KE:    -24.9675580513 H         -679.4018 eV
+Potential Energy:                  -28.1090298741 H         -764.8856 eV
+MD Kinetic Energy:                   3.1414718228 H           85.4838 eV
+Total MD Energy:                   -24.9675580513 H         -679.4018 eV
+MD Temperature:                      0.0195730332 au        6180.6677 K
+MD step: 95
+Nose-Hoover chain variables
+x:
+    0.1006231524E+01    0.6027109150E+00    0.6910146498E+00
+v:
+    0.1667465356E-04   -0.8845151666E-03   -0.5137254603E-03
+g:
+    0.2443243771E-07   -0.6679889250E-06    0.2512600810E-07
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.192007E-02 au     0.564903E+11 Pa
+Gibbs free energy:                 -28.1091769900 H         -764.8896 eV
+Gibbs free energy including KE:    -24.9744597731 H         -679.5896 eV
+Potential Energy:                  -28.1091769900 H         -764.8896 eV
+MD Kinetic Energy:                   3.1347172169 H           85.3000 eV
+Total MD Energy:                   -24.9744597731 H         -679.5896 eV
+MD Temperature:                      0.0195309484 au        6167.3783 K
+MD step: 100
+Nose-Hoover chain variables
+x:
+    0.1007125703E+01    0.5554983056E+00    0.6645470822E+00
+v:
+    0.1750367078E-04   -0.9428592914E-03   -0.5097084093E-03
+g:
+   -0.2194889404E-07   -0.6588935764E-06    0.1317425715E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.174683E-02 au     0.513935E+11 Pa
+Gibbs free energy:                 -27.9136526276 H         -759.5691 eV
+Gibbs free energy including KE:    -24.9781637024 H         -679.6904 eV
+Potential Energy:                  -27.9136526276 H         -759.5691 eV
+MD Kinetic Energy:                   2.9354889252 H           79.8787 eV
+Total MD Energy:                   -24.9781637024 H         -679.6904 eV
+MD Temperature:                      0.0182896506 au        5775.4080 K
+MD step: 105
+Nose-Hoover chain variables
+x:
+    0.1007997595E+01    0.5052375681E+00    0.6384335086E+00
+v:
+    0.1600563255E-04   -0.1002661104E-02   -0.4999411878E-03
+g:
+   -0.5382640026E-07   -0.6750072042E-06    0.2480882182E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.156809E-02 au     0.461348E+11 Pa
+Gibbs free energy:                 -27.8156225524 H         -756.9016 eV
+Gibbs free energy including KE:    -24.9822892545 H         -679.8027 eV
+Potential Energy:                  -27.8156225524 H         -756.9016 eV
+MD Kinetic Energy:                   2.8333332979 H           77.0989 eV
+Total MD Energy:                   -24.9822892545 H         -679.8027 eV
+MD Temperature:                      0.0176531670 au        5574.4226 K
+MD step: 110
+Nose-Hoover chain variables
+x:
+    0.1008790074E+01    0.4518390613E+00    0.6129849056E+00
+v:
+    0.1495574407E-04   -0.1064182432E-02   -0.4838789447E-03
+g:
+   -0.2325355208E-07   -0.6854416278E-06    0.3752431761E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.152887E-02 au     0.449810E+11 Pa
+Gibbs free energy:                 -27.9430775877 H         -760.3698 eV
+Gibbs free energy including KE:    -24.9889598123 H         -679.9842 eV
+Potential Energy:                  -27.9430775877 H         -760.3698 eV
+MD Kinetic Energy:                   2.9541177754 H           80.3856 eV
+Total MD Energy:                   -24.9889598123 H         -679.9842 eV
+MD Temperature:                      0.0184057182 au        5812.0592 K
+MD step: 115
+Nose-Hoover chain variables
+x:
+    0.1009551968E+01    0.3952380715E+00    0.5885404281E+00
+v:
+    0.1448464798E-04   -0.1126475701E-02   -0.4609994670E-03
+g:
+   -0.2595505293E-07   -0.6898936582E-06    0.5117064330E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.174558E-02 au     0.513567E+11 Pa
+Gibbs free energy:                 -27.9426625121 H         -760.3585 eV
+Gibbs free energy including KE:    -24.9918993959 H         -680.0642 eV
+Potential Energy:                  -27.9426625121 H         -760.3585 eV
+MD Kinetic Energy:                   2.9507631162 H           80.2943 eV
+Total MD Energy:                   -24.9918993959 H         -680.0642 eV
+MD Temperature:                      0.0183848169 au        5805.4591 K
+MD step: 120
+Nose-Hoover chain variables
+x:
+    0.1010308144E+01    0.3354133042E+00    0.5654642175E+00
+v:
+    0.1506021436E-04   -0.1188761632E-02   -0.4308569300E-03
+g:
+    0.5202928171E-08   -0.6844350437E-06    0.6559131447E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.187695E-02 au     0.552217E+11 Pa
+Gibbs free energy:                 -28.0666318750 H         -763.7319 eV
+Gibbs free energy including KE:    -24.9975790731 H         -680.2187 eV
+Potential Energy:                  -28.0666318750 H         -763.7319 eV
+MD Kinetic Energy:                   3.0690528019 H           83.5132 eV
+Total MD Energy:                   -24.9975790731 H         -680.2187 eV
+MD Temperature:                      0.0191218243 au        6038.1873 K
+MD step: 125
+Nose-Hoover chain variables
+x:
+    0.1011126048E+01    0.2723982553E+00    0.5441406089E+00
+v:
+    0.1680176254E-04   -0.1249726132E-02   -0.3931315315E-03
+g:
+    0.2429123055E-07   -0.6666230208E-06    0.8045743334E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.183211E-02 au     0.539024E+11 Pa
+Gibbs free energy:                 -28.1534079905 H         -766.0932 eV
+Gibbs free energy including KE:    -25.0033181854 H         -680.3749 eV
+Potential Energy:                  -28.1534079905 H         -766.0932 eV
+MD Kinetic Energy:                   3.1500898051 H           85.7183 eV
+Total MD Energy:                   -25.0033181854 H         -680.3749 eV
+MD Temperature:                      0.0196267278 au        6197.6230 K
+MD step: 130
+Nose-Hoover chain variables
+x:
+    0.1012053753E+01    0.2062968872E+00    0.5249656527E+00
+v:
+    0.1877500262E-04   -0.1308021838E-02   -0.3476962229E-03
+g:
+   -0.6168736440E-08   -0.6440883397E-06    0.9536800569E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.169749E-02 au     0.499419E+11 Pa
+Gibbs free energy:                 -28.0001580430 H         -761.9231 eV
+Gibbs free energy including KE:    -25.0073422481 H         -680.4844 eV
+Potential Energy:                  -28.0001580430 H         -761.9231 eV
+MD Kinetic Energy:                   2.9928157948 H           81.4387 eV
+Total MD Energy:                   -25.0073422481 H         -680.4844 eV
+MD Temperature:                      0.0186468274 au        5888.1953 K
+MD step: 135
+Nose-Hoover chain variables
+x:
+    0.1013023531E+01    0.1372573548E+00    0.5083373238E+00
+v:
+    0.1870906263E-04   -0.1363514197E-02   -0.2945786233E-03
+g:
+   -0.2469562096E-07   -0.6448817550E-06    0.1101929894E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.153097E-02 au     0.450427E+11 Pa
+Gibbs free energy:                 -27.9709789218 H         -761.1291 eV
+Gibbs free energy including KE:    -25.0135854231 H         -680.6543 eV
+Potential Energy:                  -27.9709789218 H         -761.1291 eV
+MD Kinetic Energy:                   2.9573934987 H           80.4748 eV
+Total MD Energy:                   -25.0135854231 H         -680.6543 eV
+MD Temperature:                      0.0184261277 au        5818.5040 K
+MD step: 140
+Nose-Hoover chain variables
+x:
+    0.1014009437E+01    0.6543087822E-01    0.4946509464E+00
+v:
+    0.1963538173E-04   -0.1415616145E-02   -0.2338656314E-03
+g:
+   -0.2294667688E-08   -0.6334800947E-06    0.1246727998E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.150194E-02 au     0.441886E+11 Pa
+Gibbs free energy:                 -28.0538222893 H         -763.3833 eV
+Gibbs free energy including KE:    -25.0201431999 H         -680.8327 eV
+Potential Energy:                  -28.0538222893 H         -763.3833 eV
+MD Kinetic Energy:                   3.0336790894 H           82.5506 eV
+Total MD Energy:                   -25.0201431999 H         -680.8327 eV
+MD Temperature:                      0.0189014273 au        5968.5916 K
+MD step: 145
+Nose-Hoover chain variables
+x:
+    0.1015049426E+01   -0.8967830291E-02    0.4842919600E+00
+v:
+    0.2037412569E-04   -0.1462928536E-02   -0.1658762782E-03
+g:
+   -0.2773529744E-07   -0.6239923677E-06    0.1382918828E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.171716E-02 au     0.505206E+11 Pa
+Gibbs free energy:                 -27.9496083519 H         -760.5475 eV
+Gibbs free energy including KE:    -25.0248849039 H         -680.9618 eV
+Potential Energy:                  -27.9496083519 H         -760.5475 eV
+MD Kinetic Energy:                   2.9247234480 H           79.5858 eV
+Total MD Energy:                   -25.0248849039 H         -680.9618 eV
+MD Temperature:                      0.0182225760 au        5754.2275 K
+MD step: 150
+Nose-Hoover chain variables
+x:
+    0.1016104247E+01   -0.8567923349E-01    0.4776236028E+00
+v:
+    0.2063717660E-04   -0.1505034019E-02   -0.9112626853E-04
+g:
+   -0.1443950940E-07   -0.6205294003E-06    0.1507886327E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.186499E-02 au     0.548700E+11 Pa
+Gibbs free energy:                 -28.0343002796 H         -762.8521 eV
+Gibbs free energy including KE:    -25.0320123070 H         -681.1557 eV
+Potential Energy:                  -28.0343002796 H         -762.8521 eV
+MD Kinetic Energy:                   3.0022879726 H           81.6964 eV
+Total MD Energy:                   -25.0320123070 H         -681.1557 eV
+MD Temperature:                      0.0187058441 au        5906.8313 K
+MD step: 155
+Nose-Hoover chain variables
+x:
+    0.1017211344E+01   -0.1644047113E+00    0.4749782881E+00
+v:
+    0.2225178272E-04   -0.1540565893E-02   -0.1032038335E-04
+g:
+   -0.5544993235E-08   -0.5983005431E-06    0.1616102199E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.188712E-02 au     0.555208E+11 Pa
+Gibbs free energy:                 -28.0423241375 H         -763.0705 eV
+Gibbs free energy including KE:    -25.0389352966 H         -681.3441 eV
+Potential Energy:                  -28.0423241375 H         -763.0705 eV
+MD Kinetic Energy:                   3.0033888410 H           81.7264 eV
+Total MD Energy:                   -25.0389352966 H         -681.3441 eV
+MD Temperature:                      0.0187127031 au        5908.9972 K
+MD step: 160
+Nose-Hoover chain variables
+x:
+    0.1018374257E+01   -0.2447735124E+00    0.4766440640E+00
+v:
+    0.2249059523E-04   -0.1568695955E-02    0.7554267369E-04
+g:
+   -0.4175542004E-07   -0.5948706455E-06    0.1703565927E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.177659E-02 au     0.522691E+11 Pa
+Gibbs free energy:                 -27.9146454226 H         -759.5961 eV
+Gibbs free energy including KE:    -25.0454333376 H         -681.5209 eV
+Potential Energy:                  -27.9146454226 H         -759.5961 eV
+MD Kinetic Energy:                   2.8692120850 H           78.0752 eV
+Total MD Energy:                   -25.0454333376 H         -681.5209 eV
+MD Temperature:                      0.0178767108 au        5645.0121 K
+MD step: 165
+Nose-Hoover chain variables
+x:
+    0.1019518664E+01   -0.3264154131E+00    0.4828546218E+00
+v:
+    0.2175232672E-04   -0.1589871606E-02    0.1653955281E-03
+g:
+   -0.4888425200E-07   -0.6053555185E-06    0.1770450651E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.161084E-02 au     0.473926E+11 Pa
+Gibbs free energy:                 -27.9115216820 H         -759.5111 eV
+Gibbs free energy including KE:    -25.0510913607 H         -681.6749 eV
+Potential Energy:                  -27.9115216820 H         -759.5111 eV
+MD Kinetic Energy:                   2.8604303214 H           77.8363 eV
+Total MD Energy:                   -25.0510913607 H         -681.6749 eV
+MD Temperature:                      0.0178219958 au        5627.7344 K
+MD step: 170
+Nose-Hoover chain variables
+x:
+    0.1020646890E+01   -0.4089654209E+00    0.4937880934E+00
+v:
+    0.2228737065E-04   -0.1603625004E-02    0.2581325903E-03
+g:
+   -0.7491968912E-08   -0.5977917401E-06    0.1814372083E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.152211E-02 au     0.447819E+11 Pa
+Gibbs free energy:                 -28.0855225554 H         -764.2460 eV
+Gibbs free energy including KE:    -25.0591409132 H         -681.8939 eV
+Potential Energy:                  -28.0855225554 H         -764.2460 eV
+MD Kinetic Energy:                   3.0263816421 H           82.3520 eV
+Total MD Energy:                   -25.0591409132 H         -681.8939 eV
+MD Temperature:                      0.0188559604 au        5954.2342 K
+MD step: 175
+Nose-Hoover chain variables
+x:
+    0.1021844461E+01   -0.4920012143E+00    0.5095604323E+00
+v:
+    0.2398054801E-04   -0.1608498414E-02    0.3524255220E-03
+g:
+   -0.1192001182E-07   -0.5726446667E-06    0.1830026075E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.167016E-02 au     0.491379E+11 Pa
+Gibbs free energy:                 -28.0540244985 H         -763.3888 eV
+Gibbs free energy including KE:    -25.0651079527 H         -682.0563 eV
+Potential Energy:                  -28.0540244985 H         -763.3888 eV
+MD Kinetic Energy:                   2.9889165458 H           81.3326 eV
+Total MD Energy:                   -25.0651079527 H         -682.0563 eV
+MD Temperature:                      0.0186225330 au        5880.5238 K
+MD step: 180
+Nose-Hoover chain variables
+x:
+    0.1023120524E+01   -0.5750543312E+00    0.5302134121E+00
+v:
+    0.2567526811E-04   -0.1604320558E-02    0.4467741035E-03
+g:
+    0.8159525750E-08   -0.5456316469E-06    0.1816603382E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.181576E-02 au     0.534215E+11 Pa
+Gibbs free energy:                 -28.1731736139 H         -766.6311 eV
+Gibbs free energy including KE:    -25.0738421875 H         -682.2940 eV
+Potential Energy:                  -28.1731736139 H         -766.6311 eV
+MD Kinetic Energy:                   3.0993314263 H           84.3371 eV
+Total MD Energy:                   -25.0738421875 H         -682.2940 eV
+MD Temperature:                      0.0193104762 au        6097.7588 K
+MD step: 185
+Nose-Hoover chain variables
+x:
+    0.1024542502E+01   -0.6576407798E+00    0.5557104923E+00
+v:
+    0.2958302114E-04   -0.1590128033E-02    0.5396276649E-03
+g:
+    0.3541506513E-07   -0.4763162720E-06    0.1771266090E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.184250E-02 au     0.542083E+11 Pa
+Gibbs free energy:                 -28.2575529055 H         -768.9271 eV
+Gibbs free energy including KE:    -25.0838062103 H         -682.5651 eV
+Potential Energy:                  -28.2575529055 H         -768.9271 eV
+MD Kinetic Energy:                   3.1737466953 H           86.3620 eV
+Total MD Energy:                   -25.0838062103 H         -682.5651 eV
+MD Temperature:                      0.0197741227 au        6244.1666 K
+MD step: 190
+Nose-Hoover chain variables
+x:
+    0.1026159256E+01   -0.7392141558E+00    0.5859302162E+00
+v:
+    0.3263336807E-04   -0.1565316844E-02    0.6292648235E-03
+g:
+   -0.9238004913E-08   -0.4153963876E-06    0.1692975749E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.173655E-02 au     0.510911E+11 Pa
+Gibbs free energy:                 -28.0808186745 H         -764.1180 eV
+Gibbs free energy including KE:    -25.0931996135 H         -682.8207 eV
+Potential Energy:                  -28.0808186745 H         -764.1180 eV
+MD Kinetic Energy:                   2.9876190609 H           81.2973 eV
+Total MD Energy:                   -25.0931996135 H         -682.8207 eV
+MD Temperature:                      0.0186144490 au        5877.9711 K
+MD step: 195
+Nose-Hoover chain variables
+x:
+    0.1027872731E+01   -0.8192815860E+00    0.6206657082E+00
+v:
+    0.3330997465E-04   -0.1532403571E-02    0.7141935154E-03
+g:
+   -0.5436015356E-07   -0.4010741059E-06    0.1591019633E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.152632E-02 au     0.449059E+11 Pa
+Gibbs free energy:                 -27.9225912486 H         -759.8124 eV
+Gibbs free energy including KE:    -25.1018843001 H         -683.0570 eV
+Potential Energy:                  -27.9225912486 H         -759.8124 eV
+MD Kinetic Energy:                   2.8207069485 H           76.7553 eV
+Total MD Energy:                   -25.1018843001 H         -683.0570 eV
+MD Temperature:                      0.0175744981 au        5549.5810 K
+MD step: 200
+Nose-Hoover chain variables
+x:
+    0.1029584940E+01   -0.8975058012E+00    0.6596471243E+00
+v:
+    0.3287982201E-04   -0.1494330446E-02    0.7934777983E-03
+g:
+   -0.6295449410E-07   -0.4102135267E-06    0.1475782409E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.135102E-02 au     0.397484E+11 Pa
+Gibbs free energy:                 -27.8929742455 H         -759.0064 eV
+Gibbs free energy including KE:    -25.1124812566 H         -683.3454 eV
+Potential Energy:                  -27.8929742455 H         -759.0064 eV
+MD Kinetic Energy:                   2.7804929888 H           75.6611 eV
+Total MD Energy:                   -25.1124812566 H         -683.3454 eV
+MD Temperature:                      0.0173239439 au        5470.4623 K
+MD step: 205
+Nose-Hoover chain variables
+x:
+    0.1031242442E+01   -0.9736708490E+00    0.7025681533E+00
+v:
+    0.3085921797E-04   -0.1453143668E-02    0.8666111909E-03
+g:
+   -0.1044550058E-06   -0.4515555538E-06    0.1354385449E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.141449E-02 au     0.416157E+11 Pa
+Gibbs free energy:                 -27.7328112571 H         -754.6482 eV
+Gibbs free energy including KE:    -25.1199754764 H         -683.5493 eV
+Potential Energy:                  -27.7328112571 H         -754.6482 eV
+MD Kinetic Energy:                   2.6128357807 H           71.0989 eV
+Total MD Energy:                   -25.1199754764 H         -683.5493 eV
+MD Temperature:                      0.0162793507 au        5140.6062 K
+MD step: 210
+Nose-Hoover chain variables
+x:
+    0.1032749160E+01   -0.1047687774E+01    0.7491066579E+00
+v:
+    0.2752942325E-04   -0.1411512431E-02    0.9335018836E-03
+g:
+   -0.9793927164E-07   -0.5139650766E-06    0.1235126272E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.160379E-02 au     0.471850E+11 Pa
+Gibbs free energy:                 -27.7924354637 H         -756.2706 eV
+Gibbs free energy including KE:    -25.1287661170 H         -683.7885 eV
+Potential Energy:                  -27.7924354637 H         -756.2706 eV
+MD Kinetic Energy:                   2.6636693467 H           72.4821 eV
+Total MD Energy:                   -25.1287661170 H         -683.7885 eV
+MD Temperature:                      0.0165960707 au        5240.6184 K
+MD step: 215
+Nose-Hoover chain variables
+x:
+    0.1034110598E+01   -0.1119554810E+01    0.7989442950E+00
+v:
+    0.2537614018E-04   -0.1369825841E-02    0.9943234326E-03
+g:
+   -0.6765520490E-07   -0.5505336065E-06    0.1119181764E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.175658E-02 au     0.516804E+11 Pa
+Gibbs free energy:                 -27.9109688413 H         -759.4961 eV
+Gibbs free energy including KE:    -25.1373354941 H         -684.0217 eV
+Potential Energy:                  -27.9109688413 H         -759.4961 eV
+MD Kinetic Energy:                   2.7736333473 H           75.4744 eV
+Total MD Energy:                   -25.1373354941 H         -684.0217 eV
+MD Temperature:                      0.0172812047 au        5456.9663 K
+MD step: 220
+Nose-Hoover chain variables
+x:
+    0.1035371936E+01   -0.1189257283E+01    0.8517712066E+00
+v:
+    0.2328763002E-04   -0.1327824875E-02    0.1049215237E-02
+g:
+   -0.7827078146E-07   -0.5831583703E-06    0.1005877827E-05
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.177337E-02 au     0.521743E+11 Pa
+Gibbs free energy:                 -27.8735903086 H         -758.4790 eV
+Gibbs free energy including KE:    -25.1431751111 H         -684.1806 eV
+Potential Energy:                  -27.8735903086 H         -758.4790 eV
+MD Kinetic Energy:                   2.7304151975 H           74.2984 eV
+Total MD Energy:                   -25.1431751111 H         -684.1806 eV
+MD Temperature:                      0.0170119327 au        5371.9371 K
+MD step: 225
+Nose-Hoover chain variables
+x:
+    0.1036513776E+01   -0.1256798924E+01    0.9072853917E+00
+v:
+    0.2092262448E-04   -0.1286301638E-02    0.1098368083E-02
+g:
+   -0.7228409925E-07   -0.6167213269E-06    0.8973308309E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.162818E-02 au     0.479026E+11 Pa
+Gibbs free energy:                 -27.9044029054 H         -759.3174 eV
+Gibbs free energy including KE:    -25.1499584173 H         -684.3652 eV
+Potential Energy:                  -27.9044029054 H         -759.3174 eV
+MD Kinetic Energy:                   2.7544444881 H           74.9522 eV
+Total MD Energy:                   -25.1499584173 H         -684.3652 eV
+MD Temperature:                      0.0171616479 au        5419.2133 K
+MD step: 230
+Nose-Hoover chain variables
+x:
+    0.1037528552E+01   -0.1322216696E+01    0.9651971489E+00
+v:
+    0.1810314317E-04   -0.1245722939E-02    0.1142056079E-02
+g:
+   -0.9202670623E-07   -0.6520417344E-06    0.7945845684E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.152203E-02 au     0.447797E+11 Pa
+Gibbs free energy:                 -27.8108518063 H         -756.7718 eV
+Gibbs free energy including KE:    -25.1550385249 H         -684.5034 eV
+Potential Energy:                  -27.8108518063 H         -756.7718 eV
+MD Kinetic Energy:                   2.6558132814 H           72.2684 eV
+Total MD Energy:                   -25.1550385249 H         -684.5034 eV
+MD Temperature:                      0.0165471232 au        5225.1620 K
+MD step: 235
+Nose-Hoover chain variables
+x:
+    0.1038347505E+01   -0.1385582111E+01    0.1025232620E+01
+v:
+    0.1343778196E-04   -0.1207049077E-02    0.1180628755E-02
+g:
+   -0.1098643474E-06   -0.6992768230E-06    0.6997264032E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.154954E-02 au     0.455890E+11 Pa
+Gibbs free energy:                 -27.7795466054 H         -755.9199 eV
+Gibbs free energy including KE:    -25.1583907635 H         -684.5946 eV
+Potential Energy:                  -27.7795466054 H         -755.9199 eV
+MD Kinetic Energy:                   2.6211558419 H           71.3253 eV
+Total MD Energy:                   -25.1583907635 H         -684.5946 eV
+MD Temperature:                      0.0163311890 au        5156.9755 K
+MD step: 240
+Nose-Hoover chain variables
+x:
+    0.1038946337E+01   -0.1447004188E+01    0.1087138424E+01
+v:
+    0.1005118285E-04   -0.1170363083E-02    0.1214508065E-02
+g:
+   -0.6661186014E-07   -0.7248116371E-06    0.6125086746E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.165293E-02 au     0.486307E+11 Pa
+Gibbs free energy:                 -27.9345615590 H         -760.1381 eV
+Gibbs free energy including KE:    -25.1634611217 H         -684.7326 eV
+Potential Energy:                  -27.9345615590 H         -760.1381 eV
+MD Kinetic Energy:                   2.7711004373 H           75.4055 eV
+Total MD Energy:                   -25.1634611217 H         -684.7326 eV
+MD Temperature:                      0.0172654233 au        5451.9830 K
+MD step: 245
+Nose-Hoover chain variables
+x:
+    0.1039382762E+01   -0.1506566484E+01    0.1150681195E+01
+v:
+    0.6757572602E-05   -0.1135061793E-02    0.1244032869E-02
+g:
+   -0.7353282104E-07   -0.7425826751E-06    0.5311242022E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.179934E-02 au     0.529383E+11 Pa
+Gibbs free energy:                 -27.9179638490 H         -759.6864 eV
+Gibbs free energy including KE:    -25.1653902616 H         -684.7851 eV
+Potential Energy:                  -27.9179638490 H         -759.6864 eV
+MD Kinetic Energy:                   2.7525735874 H           74.9013 eV
+Total MD Energy:                   -25.1653902616 H         -684.7851 eV
+MD Temperature:                      0.0171499912 au        5415.5324 K
+MD step: 250
+Nose-Hoover chain variables
+x:
+    0.1039651010E+01   -0.1564340111E+01    0.1215643546E+01
+v:
+    0.3785118710E-05   -0.1101111009E-02    0.1269495961E-02
+g:
+   -0.5185347626E-07   -0.7526420652E-06    0.4552043818E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.172294E-02 au     0.506906E+11 Pa
+Gibbs free energy:                 -28.0206176037 H         -762.4798 eV
+Gibbs free energy including KE:    -25.1667882862 H         -684.8232 eV
+Potential Energy:                  -28.0206176037 H         -762.4798 eV
+MD Kinetic Energy:                   2.8538293175 H           77.6566 eV
+Total MD Energy:                   -25.1667882862 H         -684.8232 eV
+MD Temperature:                      0.0177808680 au        5614.7473 K
+MD step: 255
+Nose-Hoover chain variables
+x:
+    0.1039804496E+01   -0.1620389831E+01    0.1281822567E+01
+v:
+    0.2247341635E-05   -0.1068317226E-02    0.1291161637E-02
+g:
+   -0.3179133820E-07   -0.7556198472E-06    0.3840606239E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.152837E-02 au     0.449661E+11 Pa
+Gibbs free energy:                 -28.0721695359 H         -763.8826 eV
+Gibbs free energy including KE:    -25.1680622957 H         -684.8578 eV
+Potential Energy:                  -28.0721695359 H         -763.8826 eV
+MD Kinetic Energy:                   2.9041072402 H           79.0248 eV
+Total MD Energy:                   -25.1680622957 H         -684.8578 eV
+MD Temperature:                      0.0180941261 au        5713.6663 K
+MD step: 260
+Nose-Hoover chain variables
+x:
+    0.1039857432E+01   -0.1674774597E+01    0.1349028236E+01
+v:
+   -0.6419750590E-06   -0.1036694956E-02    0.1309268937E-02
+g:
+   -0.7796004062E-07   -0.7571087775E-06    0.3174953597E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.139729E-02 au     0.411096E+11 Pa
+Gibbs free energy:                 -27.8769089925 H         -758.5693 eV
+Gibbs free energy including KE:    -25.1671728344 H         -684.8336 eV
+Potential Energy:                  -27.8769089925 H         -758.5693 eV
+MD Kinetic Energy:                   2.7097361581 H           73.7357 eV
+Total MD Energy:                   -25.1671728344 H         -684.8336 eV
+MD Temperature:                      0.0168830913 au        5331.2522 K
+MD step: 265
+Nose-Hoover chain variables
+x:
+    0.1039696425E+01   -0.1727554387E+01    0.1417082703E+01
+v:
+   -0.5681054823E-05   -0.1006124349E-02    0.1324047634E-02
+g:
+   -0.9249446049E-07   -0.7468809947E-06    0.2550451335E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.135796E-02 au     0.399527E+11 Pa
+Gibbs free energy:                 -27.8519460739 H         -757.8900 eV
+Gibbs free energy including KE:    -25.1664497874 H         -684.8139 eV
+Potential Energy:                  -27.8519460739 H         -757.8900 eV
+MD Kinetic Energy:                   2.6854962865 H           73.0761 eV
+Total MD Energy:                   -25.1664497874 H         -684.8139 eV
+MD Temperature:                      0.0167320641 au        5283.5616 K
+MD step: 270
+Nose-Hoover chain variables
+x:
+    0.1039287965E+01   -0.1778769613E+01    0.1485818892E+01
+v:
+   -0.9992696248E-05   -0.9760735301E-03    0.1335677646E-02
+g:
+   -0.6923362614E-07   -0.7251879449E-06    0.1954784643E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.141749E-02 au     0.417040E+11 Pa
+Gibbs free energy:                 -27.9308377680 H         -760.0368 eV
+Gibbs free energy including KE:    -25.1646037314 H         -684.7637 eV
+Potential Energy:                  -27.9308377680 H         -760.0368 eV
+MD Kinetic Energy:                   2.7662340365 H           75.2731 eV
+Total MD Energy:                   -25.1646037314 H         -684.7637 eV
+MD Temperature:                      0.0172351030 au        5442.4086 K
+MD step: 275
+Nose-Hoover chain variables
+x:
+    0.1038662167E+01   -0.1828438008E+01    0.1555077582E+01
+v:
+   -0.1440613032E-04   -0.9461802342E-03    0.1344287880E-02
+g:
+   -0.8345336632E-07   -0.6906218263E-06    0.1380159636E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.156192E-02 au     0.459532E+11 Pa
+Gibbs free energy:                 -27.8488892004 H         -757.8068 eV
+Gibbs free energy including KE:    -25.1614210984 H         -684.6771 eV
+Potential Energy:                  -27.8488892004 H         -757.8068 eV
+MD Kinetic Energy:                   2.6874681020 H           73.1297 eV
+Total MD Energy:                   -25.1614210984 H         -684.6771 eV
+MD Temperature:                      0.0167443495 au        5287.4411 K
+MD step: 280
+Nose-Hoover chain variables
+x:
+    0.1037763215E+01   -0.1876546024E+01    0.1624704896E+01
+v:
+   -0.2046470449E-04   -0.9154214837E-03    0.1349945978E-02
+g:
+   -0.9659822396E-07   -0.6228049462E-06    0.8075542098E-07
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.153409E-02 au     0.451346E+11 Pa
+Gibbs free energy:                 -27.8332124816 H         -757.3802 eV
+Gibbs free energy including KE:    -25.1561801191 H         -684.5345 eV
+Potential Energy:                  -27.8332124816 H         -757.3802 eV
+MD Kinetic Energy:                   2.6770323625 H           72.8458 eV
+Total MD Energy:                   -25.1561801191 H         -684.5345 eV
+MD Temperature:                      0.0166793294 au        5266.9094 K
+MD step: 285
+Nose-Hoover chain variables
+x:
+    0.1036576184E+01   -0.1923019773E+01    0.1694547587E+01
+v:
+   -0.2536235196E-04   -0.8829582016E-03    0.1352613415E-02
+g:
+   -0.7163087525E-07   -0.5507581760E-06    0.2237411382E-07
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.136108E-02 au     0.400444E+11 Pa
+Gibbs free energy:                 -27.8916227087 H         -758.9697 eV
+Gibbs free energy including KE:    -25.1505067518 H         -684.3801 eV
+Potential Energy:                  -27.8916227087 H         -758.9697 eV
+MD Kinetic Energy:                   2.7411159570 H           74.5896 eV
+Total MD Energy:                   -25.1505067518 H         -684.3801 eV
+MD Temperature:                      0.0170786041 au        5392.9902 K
+MD step: 290
+Nose-Hoover chain variables
+x:
+    0.1035107661E+01   -0.1967764394E+01    0.1764449681E+01
+v:
+   -0.3207663515E-04   -0.8481065727E-03    0.1352229310E-02
+g:
+   -0.1332592675E-06   -0.4269607942E-06   -0.3795631319E-07
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.128765E-02 au     0.378839E+11 Pa
+Gibbs free energy:                 -27.6238943663 H         -751.6844 eV
+Gibbs free energy including KE:    -25.1409138826 H         -684.1191 eV
+Potential Energy:                  -27.6238943663 H         -751.6844 eV
+MD Kinetic Energy:                   2.4829804837 H           67.5653 eV
+Total MD Energy:                   -25.1409138826 H         -684.1191 eV
+MD Temperature:                      0.0154702834 au        4885.1233 K
+MD step: 295
+Nose-Hoover chain variables
+x:
+    0.1033210084E+01   -0.2010564640E+01    0.1834248621E+01
+v:
+   -0.4148312749E-04   -0.8069372320E-03    0.1348553340E-02
+g:
+   -0.1517924808E-06   -0.2048482649E-06   -0.1060933756E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.130135E-02 au     0.382870E+11 Pa
+Gibbs free energy:                 -27.5701455378 H         -750.2218 eV
+Gibbs free energy including KE:    -25.1325979290 H         -683.8928 eV
+Potential Energy:                  -27.5701455378 H         -750.2218 eV
+MD Kinetic Energy:                   2.4375476088 H           66.3290 eV
+Total MD Energy:                   -25.1325979290 H         -683.8928 eV
+MD Temperature:                      0.0151872125 au        4795.7367 K
+MD step: 300
+Nose-Hoover chain variables
+x:
+    0.1030824802E+01   -0.2050998431E+01    0.1903761711E+01
+v:
+   -0.5070522817E-04   -0.7562177275E-03    0.1341069589E-02
+g:
+   -0.1328465905E-06    0.6805640059E-07   -0.1853758206E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.148479E-02 au     0.436842E+11 Pa
+Gibbs free energy:                 -27.6422379286 H         -752.1836 eV
+Gibbs free energy including KE:    -25.1207488578 H         -683.5704 eV
+Potential Energy:                  -27.6422379286 H         -752.1836 eV
+MD Kinetic Energy:                   2.5214890708 H           68.6132 eV
+Total MD Energy:                   -25.1207488578 H         -683.5704 eV
+MD Temperature:                      0.0157102123 au        4960.8867 K
+MD step: 305
+Nose-Hoover chain variables
+x:
+    0.1027989967E+01   -0.2088544477E+01    0.1972777673E+01
+v:
+   -0.5892932985E-04   -0.6951909286E-03    0.1329233212E-02
+g:
+   -0.1170130172E-06    0.3574846873E-06   -0.2739506447E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.174557E-02 au     0.513565E+11 Pa
+Gibbs free energy:                 -27.6682326463 H         -752.8909 eV
+Gibbs free energy including KE:    -25.1071923565 H         -683.2015 eV
+Potential Energy:                  -27.6682326463 H         -752.8909 eV
+MD Kinetic Energy:                   2.5610402897 H           69.6895 eV
+Total MD Energy:                   -25.1071923565 H         -683.2015 eV
+MD Temperature:                      0.0159566373 au        5038.7015 K
+MD step: 310
+Nose-Hoover chain variables
+x:
+    0.1024719399E+01   -0.2122652505E+01    0.2041060518E+01
+v:
+   -0.6765307673E-04   -0.6226974806E-03    0.1312636321E-02
+g:
+   -0.1209995996E-06    0.7119562802E-06   -0.3694889196E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.183784E-02 au     0.540710E+11 Pa
+Gibbs free energy:                 -27.6705648842 H         -752.9544 eV
+Gibbs free energy including KE:    -25.0892179953 H         -682.7124 eV
+Potential Energy:                  -27.6705648842 H         -752.9544 eV
+MD Kinetic Energy:                   2.5813468889 H           70.2420 eV
+Total MD Energy:                   -25.0892179953 H         -682.7124 eV
+MD Temperature:                      0.0160831582 au        5078.6536 K
+MD step: 315
+Nose-Hoover chain variables
+x:
+    0.1021044181E+01   -0.2152700281E+01    0.2108356115E+01
+v:
+   -0.7418710103E-04   -0.5387313700E-03    0.1291006498E-02
+g:
+   -0.7134547694E-07    0.1009454961E-05   -0.4670095829E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.165480E-02 au     0.486860E+11 Pa
+Gibbs free energy:                 -27.8182523838 H         -756.9732 eV
+Gibbs free energy including KE:    -25.0712166815 H         -682.2225 eV
+Potential Energy:                  -27.8182523838 H         -756.9732 eV
+MD Kinetic Energy:                   2.7470357022 H           74.7506 eV
+Total MD Energy:                   -25.0712166815 H         -682.2225 eV
+MD Temperature:                      0.0171154872 au        5404.6370 K
+MD step: 320
+Nose-Hoover chain variables
+x:
+    0.1017041078E+01   -0.2178183150E+01    0.2174406024E+01
+v:
+   -0.8111186277E-04   -0.4456739676E-03    0.1264478105E-02
+g:
+   -0.1141151125E-06    0.1354661033E-05   -0.5586157865E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.147258E-02 au     0.433247E+11 Pa
+Gibbs free energy:                 -27.6201127129 H         -751.5815 eV
+Gibbs free energy including KE:    -25.0478726341 H         -681.5873 eV
+Potential Energy:                  -27.6201127129 H         -751.5815 eV
+MD Kinetic Energy:                   2.5722400789 H           69.9942 eV
+Total MD Energy:                   -25.0478726341 H         -681.5873 eV
+MD Temperature:                      0.0160264179 au        5060.7365 K
+MD step: 325
+Nose-Hoover chain variables
+x:
+    0.1012643349E+01   -0.2198525686E+01    0.2238965815E+01
+v:
+   -0.8897892800E-04   -0.3391566899E-03    0.1233403094E-02
+g:
+   -0.1131588472E-06    0.1784196059E-05   -0.6422138116E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.135338E-02 au     0.398179E+11 Pa
+Gibbs free energy:                 -27.6264772789 H         -751.7547 eV
+Gibbs free energy including KE:    -25.0252312466 H         -680.9712 eV
+Potential Energy:                  -27.6264772789 H         -751.7547 eV
+MD Kinetic Energy:                   2.6012460323 H           70.7835 eV
+Total MD Energy:                   -25.0252312466 H         -680.9712 eV
+MD Temperature:                      0.0162071404 au        5117.8040 K
+MD step: 330
+Nose-Hoover chain variables
+x:
+    0.1007884641E+01   -0.2213011808E+01    0.2301814326E+01
+v:
+   -0.9463105883E-04   -0.2199422612E-03    0.1198393521E-02
+g:
+   -0.5951047944E-07    0.2117325900E-05   -0.7088664737E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.143116E-02 au     0.421063E+11 Pa
+Gibbs free energy:                 -27.8232736394 H         -757.1098 eV
+Gibbs free energy including KE:    -25.0006068455 H         -680.3011 eV
+Potential Energy:                  -27.8232736394 H         -757.1098 eV
+MD Kinetic Energy:                   2.8226667939 H           76.8087 eV
+Total MD Energy:                   -25.0006068455 H         -680.3011 eV
+MD Temperature:                      0.0175867090 au        5553.4368 K
+MD step: 335
+Nose-Hoover chain variables
+x:
+    0.1002912549E+01   -0.2221177489E+01    0.2362776052E+01
+v:
+   -0.9762057622E-04   -0.9584544691E-04    0.1160618459E-02
+g:
+   -0.4217109918E-07    0.2301817313E-05   -0.7480547222E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.170823E-02 au     0.502577E+11 Pa
+Gibbs free energy:                 -27.8290788719 H         -757.2678 eV
+Gibbs free energy including KE:    -24.9723594141 H         -679.5325 eV
+Potential Energy:                  -27.8290788719 H         -757.2678 eV
+MD Kinetic Energy:                   2.8567194578 H           77.7353 eV
+Total MD Energy:                   -24.9723594141 H         -679.5325 eV
+MD Temperature:                      0.0177988751 au        5620.4335 K
+MD step: 340
+Nose-Hoover chain variables
+x:
+    0.9977863810E+00   -0.2222885216E+01    0.2421746980E+01
+v:
+   -0.1006936234E-03    0.3023500539E-04    0.1121611637E-02
+g:
+   -0.5188751723E-07    0.2497443989E-05   -0.7563269164E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.184730E-02 au     0.543494E+11 Pa
+Gibbs free energy:                 -27.7921431407 H         -756.2627 eV
+Gibbs free energy including KE:    -24.9432164690 H         -678.7395 eV
+Potential Energy:                  -27.7921431407 H         -756.2627 eV
+MD Kinetic Energy:                   2.8489266717 H           77.5232 eV
+Total MD Energy:                   -24.9432164690 H         -678.7395 eV
+MD Temperature:                      0.0177503219 au        5605.1017 K
+MD step: 345
+Nose-Hoover chain variables
+x:
+    0.9925414129E+00   -0.2218045508E+01    0.2478705311E+01
+v:
+   -0.1021360049E-03    0.1566744118E-03    0.1083002058E-02
+g:
+   -0.3806634371E-07    0.2591355013E-05   -0.7326942006E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.164882E-02 au     0.485099E+11 Pa
+Gibbs free energy:                 -27.7885549550 H         -756.1651 eV
+Gibbs free energy including KE:    -24.9128172769 H         -677.9122 eV
+Potential Energy:                  -27.7885549550 H         -756.1651 eV
+MD Kinetic Energy:                   2.8757376781 H           78.2528 eV
+Total MD Energy:                   -24.9128172769 H         -677.9122 eV
+MD Temperature:                      0.0179173687 au        5657.8508 K
+MD step: 350
+Nose-Hoover chain variables
+x:
+    0.9872214720E+00   -0.2206726347E+01    0.2533713844E+01
+v:
+   -0.1038683787E-03    0.2813195426E-03    0.1046416507E-02
+g:
+   -0.6586973143E-07    0.2705912400E-05   -0.6781003869E-06
+Volume:                              0.678057E+04 au^3   0.100478E+04 A^3
+Pressure:                            0.137262E-02 au     0.403837E+11 Pa
+Gibbs free energy:                 -27.6487256989 H         -752.3601 eV
+Gibbs free energy including KE:    -24.8824361124 H         -677.0855 eV
+Potential Energy:                  -27.6487256989 H         -752.3601 eV
+MD Kinetic Energy:                   2.7662895865 H           75.2746 eV
+Total MD Energy:                   -24.8824361124 H         -677.0855 eV
+MD Temperature:                      0.0172354491 au        5442.5179 K
+MD step: 355
+Nose-Hoover chain variables
